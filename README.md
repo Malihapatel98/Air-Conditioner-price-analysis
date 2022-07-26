@@ -1,1 +1,1 @@
-# Air-Conditioner-price-analysis
+# Air-Conditioner&Solar-panels-Price-Analysis
